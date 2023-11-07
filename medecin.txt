@@ -1,0 +1,15 @@
+14
+1  TALIB  n
+2  AKRAM  o
+3  BARODI  n
+4  RAFIKI  n
+5  BENANI  o
+6  ALAOUI  o
+7  ELAHMADI  n
+8  NAJMI  n
+9  ZAIDI  o
+10  FAROUKI  n
+11  BASMAOUI  n
+12  BARAKAT  o
+13  FIKRI  o
+14  SOBHI  n
